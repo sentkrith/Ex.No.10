@@ -246,6 +246,11 @@ Showing how each prompt technique changes the content.
 Polished, coherent, structured content for both selected scenarios.
 
 ---
+## Example 
+
+[AI_Content_Generation_Presentation 1.pdf](https://github.com/user-attachments/files/23686996/AI_Content_Generation_Presentation.1.pdf)
+
+[Detailed_AI_Content_Generation_Report harry.pdf](https://github.com/user-attachments/files/23686992/Detailed_AI_Content_Generation_Report.harry.pdf)
 
 ## Conclusion
 This experiment demonstrates the power of structured prompting in AI content generation.  
